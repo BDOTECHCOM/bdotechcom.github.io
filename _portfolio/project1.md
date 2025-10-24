@@ -1,18 +1,21 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Robo-Advisory
+subtitle: Enhances efficiency through AI
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: SRobo-Advisory
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Robo-Advisory
+  subtitle: Enhances efficiency through AI 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Utilizes the Mean-Variance Optimization (MVO) model to generate optimal investment portfolios based on expected returns and risk (variance-covariance matrix).
+Incorporates KYC (Know Your Customer) questionnaires to assess investors’ risk tolerance, despite challenges from cognitive errors or emotional biases.
+Employs advanced techniques like shrinkage methods or the Black-Litterman model to improve variance-covariance matrix estimation.
+Enhances efficiency through AI for global asset allocation and low-cost portfolio management.
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: September 2025
+- Category: AI
 

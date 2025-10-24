@@ -21,9 +21,9 @@ title      : BDO Technologies Inc
 email      : bdo@bdo-tech.ca #this is also the email contact forms will go to
 description: "BDO is a fintech company that provides automated investment management services to clients using algorithms and machine learning."
 author     : BDO Tech
-# logo:     #optional, defaults to site title
-#   path: assets\img\clients\creative-market.jpg
-#   height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\site-logo.jpg
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

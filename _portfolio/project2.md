@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Quantitative Modeling
+subtitle: Using models like Markowitz’s mean-variance model and risk parity models.
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: Quantitative Modeling
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Quantitative Modeling
+  subtitle: Using models like Markowitz’s mean-variance model and risk parity models
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Forms the foundation of portfolio management using models like Markowitz’s mean-variance model and risk parity models.
+Translates user preferences (e.g., risk tolerance) and asset characteristics into strategic asset allocations.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: September 2025
+- Category: Quantitative Modeling
 

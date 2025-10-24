@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Natural Language Processing (NLP)
+subtitle: Provides incremental insights for quantitative modeling and machine learning.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Natural Language Processing (NLP)
+  subtitle: Provides incremental insights for quantitative modeling and machine learning
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Extracts market signals from unstructured data (e.g., news, research reports, social media) to analyze sentiment, industry trends, and breaking news.
+Provides incremental insights for quantitative modeling and machine learning.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: October 2025
+- Category: Natural Language Processing
 

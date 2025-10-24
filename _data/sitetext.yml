@@ -23,20 +23,17 @@ en: &DEFAULT_EN
     list:
       - title: "Robo-Advisory"
         desc: "Automated investment solutions powered by AI to optimize portfolios based on user preferences and market conditions."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-hand-holding-usd #find more at https://fontawesome.com/icons
       - title: "Data-Driven Insights"
         desc: "Advanced analytics to process financial data, market trends, and sentiment for informed decision-making."
-        icon: fas fa-laptop
-      - title: "Portfolio Optimization"
-        desc: "Continuous monitoring and adjustment of investments to align with goals and market opportunities."
-        icon: fas fa-balance-scale
+        icon: fas fa-chart-line
       - title: "Customized Financial Solutions"
         desc: "User-friendly tools providing tailored advice without requiring advanced financial or technical expertise."
-        icon: fas fa-chart-line
+        icon: fas fa-balance-scale
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Our team leverages AI-driven robo-advisory, quantitative modeling, machine learning, and natural language processing to deliver optimized, customized investment portfolios and data-driven financial insights."
     section: portfolio
     closebutton: "Close Project"
 
