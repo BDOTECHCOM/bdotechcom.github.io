@@ -94,13 +94,13 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet our talented developer and consultant."
+    subtext: Our team at BDO Technology is dedicated to revolutionizing finance through innovative technology and expertise.
     section: team
     people:
       - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        role: "Senior Consultant"
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Larry Parker"
-        role: "Lead Marketer"
+        role: "Algorithm Developer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -119,8 +119,8 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        role: "Business Director"
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Send Email to bdo@bdo-tech.ca"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -149,13 +149,13 @@ en: &DEFAULT_EN
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/people/BDO-Technologies-Inc61581713043568/
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+#       - url: https://linkedin.com
+#         icon: "fab fa-linkedin-in"
+#       - url: https://github.com/raviriley/agency-jekyll-theme
+#         icon: "fab fa-github"
+      - url: https://www.instagram.com/bdo_tech_inc
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
