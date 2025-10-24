@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to FINTECH world!
+    text: BDO TECHNOLOGY
+    button: Learn More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "What We Can Do"
     section: services
     list:
       - title: "E-Commerce"
@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Who Are We"
+    body: "BDO is a fintech company that provides automated investment management services to clients using algorithms and machine learning."
     section: about
 
   clients:
@@ -80,16 +80,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        # url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        # url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        # url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        # url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
   team:
