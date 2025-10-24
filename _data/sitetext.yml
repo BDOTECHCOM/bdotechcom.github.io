@@ -71,7 +71,11 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Who Are We"
-    body: "BDO is a fintech company that provides automated investment management services to clients using algorithms and machine learning.\n 6588 Nelson Ave, Burnaby, BC, Canada, British Columbia \n +1 778-689-5988 \n bdo@bdo-tech.ca"
+    body: |
+      BDO is a fintech company that provides automated investment management services to clients using algorithms and machine learning.
+      6588 Nelson Ave, Burnaby, BC, Canada, British Columbia 
+      +1 778-689-5988 
+      bdo@bdo-tech.ca
     section: about
 
   clients:
