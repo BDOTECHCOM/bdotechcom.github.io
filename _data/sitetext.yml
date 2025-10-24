@@ -72,7 +72,7 @@ en: &DEFAULT_EN
     title: "About Us"
     text: "Who Are We"
     body: |
-      BDO is a fintech company that provides automated investment management services to clients using algorithms and machine learning.<br>
+      BDO is a fintech company that provides automated investment management services to clients using algorithms and machine learning.<br><br>
       6588 Nelson Ave, Burnaby, BC, Canada, British Columbia <br>
       +1 778-689-5988 <br>
       bdo@bdo-tech.ca
