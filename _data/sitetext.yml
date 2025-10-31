@@ -104,7 +104,7 @@ en: &DEFAULT_EN
     people:
       - name: "Shao Junfeng"
         role: "CMO"
-        image: assets/img/team/Shaojunfeng.jpg
+        image: assets/img/team/Shaojunfeng.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -124,7 +124,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Yang Wenyi"
         role: "CEO"
-        image: assets/img/team/Yangwenyi.jpg
+        image: assets/img/team/Yangwenyi.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
