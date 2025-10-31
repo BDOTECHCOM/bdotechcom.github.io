@@ -102,9 +102,9 @@ en: &DEFAULT_EN
     subtext: Our team at BDO Technology is dedicated to revolutionizing finance through innovative technology and expertise.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Senior Consultant"
-        image: assets/img/team/1.jpg
+      - name: "Shao Junfeng"
+        role: "CMO"
+        image: assets/img/team/Shaojunfeng.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -112,9 +112,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Algorithm Developer"
-        image: assets/img/team/2.jpg
+      - name: "Tao Dingwen"
+        role: "CTO"
+        image: assets/img/team/Taodingwen.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -122,9 +122,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Business Director"
-        image: assets/img/team/3.jpg
+      - name: "Yang Wenyi"
+        role: "CEO"
+        image: assets/img/team/Yangwenyi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
